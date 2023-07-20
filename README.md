@@ -1,4 +1,4 @@
-**This repository is a reupload to GitHub of the VascuSenS Project, excluding protected information.**
+**This repository is a reupload to GitHub of the VascuSenS Project, excluding protected information. This repository is archived.**
 
 # **VascuSens**  
 A python project to produce a visualisation of blockages in an artery, based on given data from SMART stents. The visualisation algorithms used are based off of the [pyEIT](https://github.com/liubenyuan/pyEIT) open-source framework. The software uses electrical impedance data from 16 electrodes, 8 positive and 8 negative, to produce a 2D Electrical Impedance Tomography visualisation.
